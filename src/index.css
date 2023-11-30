@@ -1,0 +1,39 @@
+body {
+  background-color: darkred;
+}
+
+h2 {
+  font-family: fantasy;
+  font-size: 300%;
+  text-decoration: underline;
+  color: gold;
+  text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000,
+    2px 2px 0 #000;
+}
+
+p {
+  font-family: fantasy;
+  font-size: 150%;
+  text-decoration: underline;
+  color: gold;
+  text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000,
+    2px 2px 0 #000;
+}
+
+label {
+  font-family: fantasy;
+  font-size: 200%;
+  text-decoration: underline;
+  color: gold;
+  text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000,
+    2px 2px 0 #000;
+}
+
+button {
+  font-family: fantasy;
+  font-size: 200%;
+  background-color: darkgoldenrod;
+  color: yellow;
+  text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000,
+    2px 2px 0 #000;
+}
